@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Desenvolvedor de Software | Back-end | PHP | Java
+Desenvolvedor de Software | Full-Stack | PHP, Java
 
 
 ## 🌐 Redes sociais:
