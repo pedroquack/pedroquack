@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Desenvolvedor de Software | Full-Stack | PHP, Java
+Desenvolvedor de Software | Full-Stack | PHP, Java, Python
 
 
 ## 🌐 Redes sociais:
