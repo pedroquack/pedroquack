@@ -1,6 +1,8 @@
 # 💫 Sobre Mim:
 Desenvolvedor de Software | Full-Stack | PHP, Java
 
+Estudante Técnico em Informática pelo Instituto Federal do Paraná
+
 
 ## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroquack) 
