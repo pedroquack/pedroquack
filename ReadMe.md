@@ -1,7 +1,7 @@
 # 💫 Sobre Mim:
 Desenvolvedor de Software | Full-Stack | PHP, Java
 
-Estudante Técnico em Informática pelo Instituto Federal do Paraná
+Técnico em Informática pelo Instituto Federal do Paraná
 
 
 ## 🌐 Redes sociais:
